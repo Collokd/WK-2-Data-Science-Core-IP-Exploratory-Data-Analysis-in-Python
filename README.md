@@ -20,7 +20,7 @@ The main objective of this project is to find out how we can predict which indiv
 
 - Exploratory Data Analysis: Bivariate Analysis
 
--Exploratory Data Analysis: Multivariate Analysis
+- Exploratory Data Analysis: Multivariate Analysis
 
 ### Tools required for the project;
 
